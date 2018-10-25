@@ -1,0 +1,48 @@
+/*首页头部log样式设置*/
+.log{
+    width:100px;
+    /*height: 33px;*/
+}
+body{
+    margin:0;
+    padding:0;
+    border-sizing:border-box;
+}
+.one{
+    font-size: 18px;
+    color: #333333;
+}
+.one:hover{
+    color:#FF9D00 ;
+}
+.two{
+    color:#FF9D00 ;
+}
+header{
+    position:relative;
+    margin-top:0;
+}
+
+.my_header{
+    box-sizing: border-box;
+    width:100%;
+    position:absolute;
+    /*top:20px;*/
+    z-index:9;
+    opacity:0;
+}
+.my_header:hover{
+    /*height:50px;*/
+    /*background: white;*/
+    opacity:1;
+    /*overflow-y: hidden;*/
+}
+
+
+
+
+
+
+
+
+
